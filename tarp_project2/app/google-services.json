@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "511178582248",
+    "firebase_url": "https://tarp-7b4b0-default-rtdb.firebaseio.com",
+    "project_id": "tarp-7b4b0",
+    "storage_bucket": "tarp-7b4b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511178582248:android:d66f60d80c1eef79e1015d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIZQ003rG3jA73wta6j7DS5lS6hHAobQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511178582248:android:390bc7ad64d5f5cce1015d",
+        "android_client_info": {
+          "package_name": "com.example.tarp_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIZQ003rG3jA73wta6j7DS5lS6hHAobQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
